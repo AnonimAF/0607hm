@@ -1,0 +1,15 @@
+C:\Users\anonimus\Desktop\git\Знакомство с языками программирования (семинары)\9\LES\EX1\bin\Debug\net6.0\EX1.exe
+C:\Users\anonimus\Desktop\git\Знакомство с языками программирования (семинары)\9\LES\EX1\bin\Debug\net6.0\EX1.deps.json
+C:\Users\anonimus\Desktop\git\Знакомство с языками программирования (семинары)\9\LES\EX1\bin\Debug\net6.0\EX1.runtimeconfig.json
+C:\Users\anonimus\Desktop\git\Знакомство с языками программирования (семинары)\9\LES\EX1\bin\Debug\net6.0\EX1.dll
+C:\Users\anonimus\Desktop\git\Знакомство с языками программирования (семинары)\9\LES\EX1\bin\Debug\net6.0\EX1.pdb
+C:\Users\anonimus\Desktop\git\Знакомство с языками программирования (семинары)\9\LES\EX1\obj\Debug\net6.0\EX1.csproj.AssemblyReference.cache
+C:\Users\anonimus\Desktop\git\Знакомство с языками программирования (семинары)\9\LES\EX1\obj\Debug\net6.0\EX1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anonimus\Desktop\git\Знакомство с языками программирования (семинары)\9\LES\EX1\obj\Debug\net6.0\EX1.AssemblyInfoInputs.cache
+C:\Users\anonimus\Desktop\git\Знакомство с языками программирования (семинары)\9\LES\EX1\obj\Debug\net6.0\EX1.AssemblyInfo.cs
+C:\Users\anonimus\Desktop\git\Знакомство с языками программирования (семинары)\9\LES\EX1\obj\Debug\net6.0\EX1.csproj.CoreCompileInputs.cache
+C:\Users\anonimus\Desktop\git\Знакомство с языками программирования (семинары)\9\LES\EX1\obj\Debug\net6.0\EX1.dll
+C:\Users\anonimus\Desktop\git\Знакомство с языками программирования (семинары)\9\LES\EX1\obj\Debug\net6.0\refint\EX1.dll
+C:\Users\anonimus\Desktop\git\Знакомство с языками программирования (семинары)\9\LES\EX1\obj\Debug\net6.0\EX1.pdb
+C:\Users\anonimus\Desktop\git\Знакомство с языками программирования (семинары)\9\LES\EX1\obj\Debug\net6.0\EX1.genruntimeconfig.cache
+C:\Users\anonimus\Desktop\git\Знакомство с языками программирования (семинары)\9\LES\EX1\obj\Debug\net6.0\ref\EX1.dll
